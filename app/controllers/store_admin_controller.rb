@@ -4,10 +4,6 @@ class StoreAdminController < ApplicationController
 
   end
 
-  def method_name
-
-  end
-  
   def invoice
 
   end
