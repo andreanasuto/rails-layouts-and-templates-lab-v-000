@@ -6,7 +6,7 @@ class StoreAdminController < ApplicationController
   end
 
   def orders
-
+    render 'order_administration' => 'orders'
   end
 
   def invoice
